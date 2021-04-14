@@ -28,8 +28,48 @@
 	height: 30px;
 		
 }
+
+#bird{
+	
+}
+
+#pig{
+	
+}
+
+#cat{
+	
+}
+
+#fish{
+	
+}
 #dog {
 	width: 100%;
 	
+	
+}
+
+
+@media screen and (max-width: 828px) { #dog{ Width: 100%!important; height: auto;}  
+	
+}
+
+
+@media screen and (max-width: 1000px) { #bird{ width: 200%!important;}  
+	
+}
+
+
+@media screen and (max-width: 1000px) { #pig{ width: 200%!important;}  
+	
+}
+
+@media screen and (max-width: 1000px) { #cat{ width: 200%!important;}  
+	
+	
+@media screen and (max-width: 1000px) { #fish{ width: 200%!important;}  
+	
+}
 	
 }
